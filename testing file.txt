@@ -5,6 +5,7 @@ git remote add origin <hit link>
 git remot -v
 git add .
 git commit -m "first commit"
-git push orision master
+git push origin master
 
 git help
+
